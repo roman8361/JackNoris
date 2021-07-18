@@ -1,7 +1,6 @@
-package ru.kravchenko.chapt1Comparable;
+package ru.kravchenko.chapt1_comparable;
 
 import java.util.Arrays;
-import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 

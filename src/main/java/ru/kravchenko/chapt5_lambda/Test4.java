@@ -29,13 +29,13 @@ public class Test4 {
 
     private static void consumerTest() {
         Car car = new Car("Skoda", "gray", 1.6);
-        System.out.println("car.hashCode() - "+ car.hashCode() + " " + car);
+        System.out.println("car.hashCode() - " + car.hashCode() + " " + car);
         changeCar(car, c -> {
             c.setModel("BMW");
             c.setModel("X5");
             c.setEngine(3.0);
         });
-        System.out.println("car.hashCode() - "+ car.hashCode() + " " + car);
+        System.out.println("car.hashCode() - " + car.hashCode() + " " + car);
     }
 
     private static void supplierTest() {
@@ -51,7 +51,7 @@ public class Test4 {
         return arrayList;
     }
 
-    private static void changeCar(Car car, Consumer<Car> carConsumer){
+    private static void changeCar(Car car, Consumer<Car> carConsumer) {
         carConsumer.accept(car);
     }
 

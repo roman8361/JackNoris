@@ -2,15 +2,15 @@ package ru.kravchenko.chapt5_lambda;
 
 public class Student {
 
-    private final String name;
+    private String name;
 
-    private final char sex;
+    private char sex;
 
-    private final int age;
+    private int age;
 
-    private final int course;
+    private int course;
 
-    private final double avgGrade;
+    private double avgGrade;
 
     public Student(String name, char sex, int age, int course, double avgGrade) {
         this.name = name;
@@ -38,6 +38,26 @@ public class Student {
 
     public double getAvgGrade() {
         return avgGrade;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public void setSex(char sex) {
+        this.sex = sex;
+    }
+
+    public void setAge(int age) {
+        this.age = age;
+    }
+
+    public void setCourse(int course) {
+        this.course = course;
+    }
+
+    public void setAvgGrade(double avgGrade) {
+        this.avgGrade = avgGrade;
     }
 
     @Override

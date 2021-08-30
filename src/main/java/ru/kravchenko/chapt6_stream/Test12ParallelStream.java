@@ -10,7 +10,9 @@ import java.util.List;
 public class Test12ParallelStream {
 
     public static void main(String[] args) {
+        int length = "lll".length();
         example2();
+
     }
 
     //TODO result not VALID!!!

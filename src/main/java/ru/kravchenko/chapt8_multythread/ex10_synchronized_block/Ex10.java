@@ -1,4 +1,4 @@
-package ru.kravchenko.chapt8_multythread.ex10;
+package ru.kravchenko.chapt8_multythread.ex10_synchronized_block;
 
 /**
  * Класс пример использования synchronized блока.

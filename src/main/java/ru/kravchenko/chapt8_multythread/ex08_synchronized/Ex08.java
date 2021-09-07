@@ -1,4 +1,4 @@
-package ru.kravchenko.chapt8_multythread.ex08;
+package ru.kravchenko.chapt8_multythread.ex08_synchronized;
 
 public class Ex08 {
 

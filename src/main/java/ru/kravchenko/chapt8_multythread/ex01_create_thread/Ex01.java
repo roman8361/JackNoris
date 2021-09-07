@@ -1,4 +1,4 @@
-package ru.kravchenko.chapt8_multythread.ex01;
+package ru.kravchenko.chapt8_multythread.ex01_create_thread;
 
 /**
  * Create Thread with extends Thread

@@ -1,4 +1,4 @@
-package ru.kravchenko.chapt8_multythread.ex11;
+package ru.kravchenko.chapt8_multythread.ex11_synchronized_example;
 
 /**
  * Пример использования блоков синхронизации по общему монитору, вывод будет линейный

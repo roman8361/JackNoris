@@ -1,4 +1,4 @@
-package ru.kravchenko.chapt8_multythread.ex05;
+package ru.kravchenko.chapt8_multythread.ex05_join;
 
 import lombok.SneakyThrows;
 

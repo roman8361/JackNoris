@@ -1,4 +1,4 @@
-package ru.kravchenko.chapt8_multythread.ex03;
+package ru.kravchenko.chapt8_multythread.ex03_create_lambda;
 
 /**
  * Create Thread with lambda (create two any thread)

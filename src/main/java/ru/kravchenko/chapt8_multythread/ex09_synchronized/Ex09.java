@@ -1,4 +1,4 @@
-package ru.kravchenko.chapt8_multythread.ex09;
+package ru.kravchenko.chapt8_multythread.ex09_synchronized;
 
 /**
  * synchronized

@@ -1,7 +1,7 @@
-package ru.kravchenko.chapt8_multythread.ex07;
+package ru.kravchenko.chapt8_multythread.ex07_volatile;
 
 /**
- * volatile
+ * Volatile
  */
 public class VolatileEx extends Thread {
 

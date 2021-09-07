@@ -1,4 +1,4 @@
-package ru.kravchenko.chapt8_multythread.ex02;
+package ru.kravchenko.chapt8_multythread.ex02_create_runnable;
 
 /**
  * Create Thread with implements Runnable

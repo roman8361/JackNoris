@@ -1,4 +1,4 @@
-package ru.kravchenko.chapt8_multythread.ex04;
+package ru.kravchenko.chapt8_multythread.ex04_any_method;
 
 /**
  * Use method from Thread class
